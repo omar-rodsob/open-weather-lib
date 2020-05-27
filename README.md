@@ -40,12 +40,14 @@ const App = () => {
 
 export default App
 ```
-```Notes:
-[link to OpenWeather](https://openweathermap.org/api)
-[OpenWeather Example](open-weather.gif)
+## Notes:&nbsp;
+[link to OpenWeather](https://openweathermap.org/api)&nbsp;
+
+
+![OpenWeather Example](open-weather.gif)
 
 By now is just the current weather, we will work for have more options
-```
+
 ## License
 
 MIT © [](https://github.com/)
